@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+
+body{font-family: 'Righteous', cursive;}
+
+header{background-color:  rgba(202, 240, 251, 255);}
+
+
+#sec1{background-image: url("../images/background.png");
+    background-size: 500px 700px;
+    width: 40%;
+float: left;
+
+}
+/* padding-left: 30px;} */
+#sec2{
+    width: 40%;
+    /* position: absolute; */
+float: left;}
+/* padding-left: 700px;} */
+
+nav ul li{display: inline-block;
+padding: 40px;}
+
+label{color: white;}
+form, #btn{ background-color: #5d4b7696}
+   /* back:  #fffdfe88;} */
+
+   footer{background-color:  #f376a288;}
