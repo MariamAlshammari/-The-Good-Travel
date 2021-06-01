@@ -63,30 +63,30 @@ allPlaces=parsingPlace;
      ul.appendChild(liEle2);
      liEle2.textContent=`Trip Place : ${tripPlace}  `;
      if(tripPlace==='HAWAII'){
-         img.src="../images/HAWAII.jpg"
+         img.src="/images/HAWAII.jpg"
         //  new Places(name,tripPlace,typeOfTransport,img); 
      }
      else if(tripPlace==="LONDON"){
-        img.src="../images/LONDON.png"
+        img.src="/images/LONDON.png"
        //  new Places(name,tripPlace,typeOfTransport,img); 
     }
     else if(tripPlace==="ITALY"){
-        img.src="../images/ITALY.png"
+        img.src="/images/ITALY.png"
        //  new Places(name,tripPlace,typeOfTransport,img); 
     }
 
     else if(tripPlace==="MALAYSIA"){
-        img.src="../images/MALAYSIA.png"
+        img.src="/images/MALAYSIA.png"
        //  new Places(name,tripPlace,typeOfTransport,img); 
     }
 
     else if(tripPlace==="PARIS"){
-        img.src="../images/PARIS.png"
+        img.src="/images/PARIS.png"
        //  new Places(name,tripPlace,typeOfTransport,img); 
     }
 
     else if(tripPlace==="SLOVAKIA"){
-        img.src="../images/SLOVAKIA.png"
+        img.src="/images/SLOVAKIA.png"
        //  new Places(name,tripPlace,typeOfTransport,img); 
     }
 
